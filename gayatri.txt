@@ -1,0 +1,4 @@
+
+Cummins college of engineering
+
+code to write calculator program in c++.
